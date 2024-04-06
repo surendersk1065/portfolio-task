@@ -1,0 +1,28 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  font-family: "metropolis-regular", sans-serif;
+  background-color: black;
+}
+.collapse a {
+  color: white;
+}
+
+.collapse a:hover{
+  color:burlywood;
+}
+#about {
+  margin:80px 0px;
+}
+#project h1{
+  margin-top: 100px;
+}
+
